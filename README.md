@@ -9,6 +9,12 @@ This project is lightweight, easy to run, and perfect for students, educators, a
 
 ---
 
+#🎯 Project Objective
+- People need a reliable way to store and retrieve contact information (names and phone numbers) efficiently. Relying solely on physical records or decentralized digital notes can lead to data loss, disorganization, and difficulty in quickly finding a specific contact.
+- hence, a dedicated system is needed to centralize, structure, and maintain contact information, offering clear functions for adding, updating, and searching records.
+
+---
+
 ## ⭐ Key Features
 - ➕ **Add Contact Number :** Register a new contact number with detailed information.  
 - 🔍 **Search contacts :** Find any contact number using their conact name or vice versa.  
