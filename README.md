@@ -20,7 +20,7 @@ This project is lightweight, easy to run, and perfect for students, educators, a
 - 🔍 **Search contacts :** Find any contact number using their conact name or vice versa.  
 - ✏️ **Update Contact:** Modify existing Contact name or number without re-entering all fields.  
 - 🗑️ **Delete Contact:** Remove a person's contact details when it’s no longer needed.  
-- 📋 **Display All Contacts:** View every stored student record in a clean, readable format.
+- 📋 **Display All Contacts:** View every contact in a clean, readable format.
 - ➕ **Add Additional Details** add more details about a persons as per your need
 - 🖥️ **User-Friendly CLI:** Simple menu-driven interface that guides users step-by-step.
 
