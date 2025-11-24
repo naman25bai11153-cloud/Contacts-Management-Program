@@ -32,7 +32,7 @@ These features together create a smooth and intuitive experience, even for first
 - 🐍 **Python 3**  
 - 💻 **Command Line Interface (CLI)**  
 - 🧩 **Dictionaries** for in-memory data management
-- functions
+- **Functions**
 
 Python’s readability and flexibility make it ideal for building simple and interactive management systems like this one.
 
