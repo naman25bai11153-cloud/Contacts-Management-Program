@@ -31,7 +31,8 @@ These features together create a smooth and intuitive experience, even for first
 ## 🛠️ Technologies / Tools Used
 - 🐍 **Python 3**  
 - 💻 **Command Line Interface (CLI)**  
-- 🧩 **Dictionaries** for in-memory data management  
+- 🧩 **Dictionaries** for in-memory data management
+- functions
 
 Python’s readability and flexibility make it ideal for building simple and interactive management systems like this one.
 
