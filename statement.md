@@ -4,7 +4,7 @@
 Educational institutions often need a simple, reliable, and efficient method to manage important information such as **Contact Name**, **Contact Number**, and other additional info such as **email id**, **address**, **dob**.  
 Traditional manual contact record-keeping can lead to errors, data inconsistency, difficulty in searching, and challenges during updates.
 
-This project addresses these issues by building a **Python-based Command Line Student Record Management System** that allows users to **add, retrieve, update, and delete** contact details quickly and accurately.  
+This project addresses these issues by building a **Python-based Command Line Contacts Management System** that allows users to **add, retrieve, update, and delete** contact details quickly and accurately.  
 The system ensures smooth navigation through a menu-driven interface and demonstrates fundamental programming concepts widely useful in academic settings.
 
 ---
