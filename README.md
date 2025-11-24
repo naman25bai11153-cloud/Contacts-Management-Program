@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 The **Contact Management System** is a beginner-friendly yet practical **Python CLI application** designed to help users manage essential contact information efficiently.  
-By using a simple text-based interface, this project allows users to handle student data such as **Name**, **contact number**, and other additonal details like **dob**,**address**, **email id** in an organized manner.  
+By using a simple text-based interface, this project allows users to handle data such as **Name**, **contact number**, and other additonal details like **dob**,**address**, **email id** in an organized manner.  
 It also serves as an excellent learning project for anyone looking to understand and practice core Python concepts including **functions**, **loops**, **dictionaries**, **condition checks**, and **interactive user input handling**.
 
 This project is lightweight, easy to run, and perfect for students, educators, and developers exploring their first steps into Python-based data management systems.
